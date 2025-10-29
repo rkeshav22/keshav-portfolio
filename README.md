@@ -1,9 +1,9 @@
 # Keshav Rajput Portfolio Repository
 
-This repository contains my ATS-friendly resume and cybersecurity/IT projects.
+This repository contains my cybersecurity/IT projects.
 
 ## Contents
-- **resume_and_docs/**: Latest resume in Word format.
+
 - **projects/**: Cybersecurity and IT projects including:
   - Nessus vulnerability assessment (Windows Server 2019 SMB Signing remediation)
   - Splunk Enterprise setup, monitoring & dashboards
@@ -16,7 +16,7 @@ Initialize as a Git repository and push to GitHub:
 ```bash
 git init
 git add .
-git commit -m "Initial commit: resume and projects"
+git commit -m "Initial commit: projects"
 git branch -M main
 git remote add origin <your GitHub repo URL>
 git push -u origin main
