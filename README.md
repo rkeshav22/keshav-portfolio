@@ -16,7 +16,7 @@ Initialize as a Git repository and push to GitHub:
 ```bash
 git init
 git add .
-git commit -m "Initial commit: projects"
+git commit -m "Initial commit: Cybersecurity projects (Splunk, Nessus, Azure, Networking, A+)"
 git branch -M main
 git remote add origin <your GitHub repo URL>
 git push -u origin main
